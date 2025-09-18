@@ -46,28 +46,6 @@ Designed & coded by me — Yahya Baqsh ❤️
 
 ---
 
-## 🚀 Featured Projects
-
-### 📱 Task Manager App (Flutter)
-> A mobile task manager with cloud sync & notifications — modern UI, smooth UX.  
-🔗 [View Project →]() *(Add link later)*
-
-### 🌐 Brand Website (Web)
-> Professional website with full brand identity — built with React, optimized for performance & UX.  
-🔗 [View Project →]() *(Add link later)*
-
-### 🎨 Brand Identity Design
-> Complete visual identity for a tech startup — increased brand awareness by 30%.  
-🔗 [View Project →]() *(Add link later)*
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahyabaqsh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyabaqsh&layout=compact&theme=dark)
-
----
 
 ## 🎯 Currently Learning
 
