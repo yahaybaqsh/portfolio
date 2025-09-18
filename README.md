@@ -37,6 +37,13 @@ Designed & coded by me — Yahya Baqsh ❤️
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Provider](https://img.shields.io/badge/State%20Management-Provider-00BFA5)
 
+### ☁️ Backend & Other Languages
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
@@ -85,6 +92,6 @@ Designed & coded by me — Yahya Baqsh ❤️
 
 ---
 
-© 2025 **Yahya Baqsh** — Graphic Designer & Flutter/Web Developer — Open for freelance & collaboration 🚀
+© 2025 **Yahya Baqsh** — Graphic Designer & Full-Stack Developer — Open for freelance & collaboration 🚀
 
 </div>
